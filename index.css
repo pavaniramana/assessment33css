@@ -1,0 +1,138 @@
+body{
+    background-color: gray;
+    height: 1250px;
+    width: 100%;
+}
+.box{
+    box-shadow: 5px 5px darkorchid;
+     border-radius: 5px;
+}
+.box1{
+    border: 5px solid red;
+    background-color: white;
+    color: red;
+    top: 5px;
+    margin-left: 450px;
+    text-align: center;
+    height: 151px;
+    width: 500px;
+    padding: 0px 7px 5px 5px;
+    box-sizing: content-box;
+    font-style: italic;
+}
+.border1{
+    border: 5px groove green;
+    position: absolute;
+    top: 300px;
+    height: 530px;
+    width: 100%;
+    font-size: large;
+}
+.box2{
+    border: 5px solid red;
+    background-color: white;
+    color: blueviolet;
+    position: absolute;
+    top: 0px;
+    text-align: center;
+    height: 190px;
+    width: 200px;
+    padding: 12px 0px 2px 4px;
+    text-shadow: 0px 1px darkorchid;
+    font-weight: bolder;
+    
+}
+.box3{
+    border: 5px solid red;
+    background-color: white;
+    color: blueviolet;
+    position: absolute;
+    top: 0px;
+    right: 20px;
+    height: 190px;
+    width: 200px;
+    padding: 1px 0px 2px 4px;
+}
+.box4{
+    border: 5px solid red;
+    background-color: white;
+    color: blueviolet;
+    position: absolute;
+    bottom: 15px;
+    height: 190px;
+    width: 200px;
+    padding: 12px 0px 2px 4px;
+    text-shadow: 0px 1px darkorchid;
+    font-weight: bolder;
+}
+.box5{
+    border: 5px solid red;
+    background-color: white;
+    color: rgb(11, 2, 20);
+    position: absolute;
+    right: 20px;
+    bottom: 15px;
+    height: 190px;
+    width: 200px;
+    padding: 12px 0px 2px 4px;
+    text-shadow: 0px 1px darkorchid;
+    font-weight: bolder;
+    text-align: center;
+}
+.box6{
+    border: 5px solid red;
+    background-color: greenyellow;
+    color: red;
+    position: fixed;
+    bottom: 0px;
+    left: 450px;
+    box-shadow: 5px 5px darkorchid;
+    border-radius: 20px;
+    height: 75px;
+    width: 500px;
+    padding: 0px 7px 5px 5px;
+   font-weight: bold;
+   text-align: ;
+}
+.text1{
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    padding: 23px;
+    color: darkorchid;
+}
+.border2{
+    border: 6px solid rgb(5, 248, 216);
+    background-color: deeppink;
+    position: absolute;
+    bottom: -670px;
+    right: 400px;
+    height: 500px;
+    width: 50%;
+}
+.box7{
+    background-color: floralwhite;
+    position: absolute;
+    top: 71px;
+    height: 209px;
+    width: 367px;
+    text-align: center;
+}
+.box8{
+    background-color: floralwhite;
+    position: absolute;
+    top: 71px;
+    right: 0px;
+    height: 208px;
+    width: 367px;
+    text-align: center;
+}
+.box9{
+    background-color: floralwhite;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    height: 205px;
+    width: 100%;
+    text-align: center;
+}
